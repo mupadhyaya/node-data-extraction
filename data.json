@@ -1,0 +1,769 @@
+{
+  "resourceType": "Bundle",
+  "id": "10e5cf8d-9b6b-40aa-86d2-c50000a56ad5",
+  "meta": {
+    "lastUpdated": "2022-11-22T13:10:46.940+00:00"
+  },
+  "type": "searchset",
+  "total": 381,
+  "link": [
+    {
+      "relation": "self",
+      "url": "http://127.0.0.1:12443/fhir-server/R4/2-16-840-1-113883-3-140-99040513150914202103/Practitioner"
+    },
+    {
+      "relation": "next",
+      "url": "http://127.0.0.1:12443/fhir-server/R4/2-16-840-1-113883-3-140-99040513150914202103?_getpages=10e5cf8d-9b6b-40aa-86d2-c50000a56ad5&_getpagesoffset=20&_count=20&_bundletype=searchset"
+    }
+  ],
+  "entry": [
+    {
+      "fullUrl": "http://127.0.0.1:12443/fhir-server/R4/2-16-840-1-113883-3-140-99040513150914202103/Practitioner/8",
+      "resource": {
+        "resourceType": "Practitioner",
+        "id": "8",
+        "meta": {
+          "versionId": "1",
+          "lastUpdated": "2022-11-08T07:17:58.397+00:00",
+          "source": "2.16.840.1.113883.3.140.99040513150914202103",
+          "profile": [
+            "http://hl7.org/fhir/us/core/StructureDefinition/us-core-practitioner"
+          ],
+          "tag": [
+            {
+              "system": "https://www.edifecs.com/fhir/tags",
+              "code": "dummy",
+              "display": "Dummy Resource"
+            }
+          ]
+        },
+        "identifier": [
+          {
+            "system": "https://fhir.greenwayhealth.io/global-id",
+            "value": "e457ddede184673ea33269ecf0a0bebbb6fdbef5"
+          }
+        ],
+        "name": [
+          {
+            "family": "unknown"
+          }
+        ]
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "fullUrl": "http://127.0.0.1:12443/fhir-server/R4/2-16-840-1-113883-3-140-99040513150914202103/Practitioner/12",
+      "resource": {
+        "resourceType": "Practitioner",
+        "id": "12",
+        "meta": {
+          "versionId": "1",
+          "lastUpdated": "2022-11-08T07:18:02.590+00:00",
+          "source": "2.16.840.1.113883.3.140.99040513150914202103",
+          "profile": [
+            "http://hl7.org/fhir/us/core/StructureDefinition/us-core-practitioner"
+          ],
+          "tag": [
+            {
+              "system": "https://www.edifecs.com/fhir/tags",
+              "code": "dummy",
+              "display": "Dummy Resource"
+            }
+          ]
+        },
+        "identifier": [
+          {
+            "system": "https://fhir.greenwayhealth.io/global-id",
+            "value": "5d3e08b910563a8427124b920f88c50c493eebed"
+          }
+        ],
+        "name": [
+          {
+            "family": "unknown"
+          }
+        ]
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "fullUrl": "http://127.0.0.1:12443/fhir-server/R4/2-16-840-1-113883-3-140-99040513150914202103/Practitioner/37",
+      "resource": {
+        "resourceType": "Practitioner",
+        "id": "37",
+        "meta": {
+          "versionId": "1",
+          "lastUpdated": "2022-11-08T07:18:07.065+00:00",
+          "source": "2.16.840.1.113883.3.140.99040513150914202103",
+          "profile": [
+            "http://hl7.org/fhir/us/core/StructureDefinition/us-core-practitioner"
+          ],
+          "tag": [
+            {
+              "system": "https://www.edifecs.com/fhir/tags",
+              "code": "dummy",
+              "display": "Dummy Resource"
+            }
+          ]
+        },
+        "identifier": [
+          {
+            "system": "https://fhir.greenwayhealth.io/global-id",
+            "value": "90581d1241818d839b2e0b54239e9c5614b40b35"
+          }
+        ],
+        "name": [
+          {
+            "family": "unknown"
+          }
+        ]
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "fullUrl": "http://127.0.0.1:12443/fhir-server/R4/2-16-840-1-113883-3-140-99040513150914202103/Practitioner/36",
+      "resource": {
+        "resourceType": "Practitioner",
+        "id": "36",
+        "meta": {
+          "versionId": "1",
+          "lastUpdated": "2022-11-08T07:18:06.935+00:00",
+          "source": "2.16.840.1.113883.3.140.99040513150914202103",
+          "profile": [
+            "http://hl7.org/fhir/us/core/StructureDefinition/us-core-practitioner"
+          ],
+          "tag": [
+            {
+              "system": "https://www.edifecs.com/fhir/tags",
+              "code": "dummy",
+              "display": "Dummy Resource"
+            }
+          ]
+        },
+        "identifier": [
+          {
+            "system": "https://fhir.greenwayhealth.io/global-id",
+            "value": "b6fe486209dabf85d29ff1727a2ace4ac49485e6"
+          }
+        ],
+        "name": [
+          {
+            "family": "unknown"
+          }
+        ]
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "fullUrl": "http://127.0.0.1:12443/fhir-server/R4/2-16-840-1-113883-3-140-99040513150914202103/Practitioner/130",
+      "resource": {
+        "resourceType": "Practitioner",
+        "id": "130",
+        "meta": {
+          "versionId": "1",
+          "lastUpdated": "2022-11-08T08:10:41.232+00:00",
+          "source": "2.16.840.1.113883.3.140.99040513150914202103",
+          "profile": [
+            "http://hl7.org/fhir/us/core/StructureDefinition/us-core-practitioner"
+          ],
+          "tag": [
+            {
+              "system": "https://www.edifecs.com/fhir/tags",
+              "code": "dummy",
+              "display": "Dummy Resource"
+            }
+          ]
+        },
+        "identifier": [
+          {
+            "system": "https://fhir.greenwayhealth.io/global-id",
+            "value": "0860620cac33724bc7f79b36795443451f8d9cd7"
+          }
+        ],
+        "name": [
+          {
+            "family": "unknown"
+          }
+        ]
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "fullUrl": "http://127.0.0.1:12443/fhir-server/R4/2-16-840-1-113883-3-140-99040513150914202103/Practitioner/214022",
+      "resource": {
+        "resourceType": "Practitioner",
+        "id": "214022",
+        "meta": {
+          "extension": [
+            {
+              "url": "https://fhir.greenwayhealth.io/2.16.840.1.113883.3.140.99040513150914202103/practice-id",
+              "valueString": "264,280,6"
+            }
+          ],
+          "versionId": "20",
+          "lastUpdated": "2022-11-22T12:27:36.699+00:00",
+          "source": "2.16.840.1.113883.3.140.99040513150914202103",
+          "profile": [
+            "http://hl7.org/fhir/us/core/StructureDefinition/us-core-practitioner"
+          ],
+          "tag": [
+            {
+              "system": "https://www.edifecs.com/fhir/tag/timestamp",
+              "code": "1669119880000"
+            }
+          ]
+        },
+        "identifier": [
+          {
+            "system": "https://fhir.greenwayhealth.io/global-id",
+            "value": "3bbae6574e736e423ada23d2bc427907407d6d8e"
+          },
+          {
+            "system": "https://fhir.greenwayhealth.io/simple-ehr-id",
+            "value": "MMUser$6528"
+          },
+          {
+            "system": "https://fhir.greenwayhealth.io/ehr-id",
+            "value": "2.16.840.1.113883.3.140.99040513150914202103.MMUser.MMUserSID$6528"
+          }
+        ],
+        "name": [
+          {
+            "family": "Invite2",
+            "given": ["Bulk"]
+          }
+        ]
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "fullUrl": "http://127.0.0.1:12443/fhir-server/R4/2-16-840-1-113883-3-140-99040513150914202103/Practitioner/214254",
+      "resource": {
+        "resourceType": "Practitioner",
+        "id": "214254",
+        "meta": {
+          "extension": [
+            {
+              "url": "https://fhir.greenwayhealth.io/2.16.840.1.113883.3.140.99040513150914202103/practice-id",
+              "valueString": "6,459,456,280,264"
+            }
+          ],
+          "versionId": "58",
+          "lastUpdated": "2022-11-22T12:28:38.066+00:00",
+          "source": "2.16.840.1.113883.3.140.99040513150914202103",
+          "profile": [
+            "http://hl7.org/fhir/us/core/StructureDefinition/us-core-practitioner"
+          ],
+          "tag": [
+            {
+              "system": "https://www.edifecs.com/fhir/tag/timestamp",
+              "code": "1669119880000"
+            }
+          ]
+        },
+        "identifier": [
+          {
+            "system": "https://fhir.greenwayhealth.io/global-id",
+            "value": "aa82c6db16d9c81176d2abd8511b4252f28c2930"
+          },
+          {
+            "system": "https://fhir.greenwayhealth.io/simple-ehr-id",
+            "value": "MMUser$6575"
+          },
+          {
+            "system": "https://fhir.greenwayhealth.io/ehr-id",
+            "value": "2.16.840.1.113883.3.140.99040513150914202103.MMUser.MMUserSID$6575"
+          }
+        ],
+        "name": [
+          {
+            "family": "Tyree",
+            "given": ["Omar"]
+          }
+        ]
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "fullUrl": "http://127.0.0.1:12443/fhir-server/R4/2-16-840-1-113883-3-140-99040513150914202103/Practitioner/79735",
+      "resource": {
+        "resourceType": "Practitioner",
+        "id": "79735",
+        "meta": {
+          "versionId": "1",
+          "lastUpdated": "2022-11-08T12:26:45.257+00:00",
+          "source": "2.16.840.1.113883.3.140.99040513150914202103",
+          "profile": [
+            "http://hl7.org/fhir/us/core/StructureDefinition/us-core-practitioner"
+          ],
+          "tag": [
+            {
+              "system": "https://www.edifecs.com/fhir/tags",
+              "code": "dummy",
+              "display": "Dummy Resource"
+            }
+          ]
+        },
+        "identifier": [
+          {
+            "system": "https://fhir.greenwayhealth.io/global-id",
+            "value": "f07cf7e4c836104ea36bb1fd62fe354170a01c0b"
+          }
+        ],
+        "name": [
+          {
+            "family": "unknown"
+          }
+        ]
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "fullUrl": "http://127.0.0.1:12443/fhir-server/R4/2-16-840-1-113883-3-140-99040513150914202103/Practitioner/79935",
+      "resource": {
+        "resourceType": "Practitioner",
+        "id": "79935",
+        "meta": {
+          "versionId": "1",
+          "lastUpdated": "2022-11-08T12:26:54.048+00:00",
+          "source": "2.16.840.1.113883.3.140.99040513150914202103",
+          "profile": [
+            "http://hl7.org/fhir/us/core/StructureDefinition/us-core-practitioner"
+          ],
+          "tag": [
+            {
+              "system": "https://www.edifecs.com/fhir/tags",
+              "code": "dummy",
+              "display": "Dummy Resource"
+            }
+          ]
+        },
+        "identifier": [
+          {
+            "system": "https://fhir.greenwayhealth.io/global-id",
+            "value": "4519cec4d6356293f320a119238f42ae341e0a4b"
+          }
+        ],
+        "name": [
+          {
+            "family": "unknown"
+          }
+        ]
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "fullUrl": "http://127.0.0.1:12443/fhir-server/R4/2-16-840-1-113883-3-140-99040513150914202103/Practitioner/80127",
+      "resource": {
+        "resourceType": "Practitioner",
+        "id": "80127",
+        "meta": {
+          "versionId": "1",
+          "lastUpdated": "2022-11-08T12:27:04.510+00:00",
+          "source": "2.16.840.1.113883.3.140.99040513150914202103",
+          "profile": [
+            "http://hl7.org/fhir/us/core/StructureDefinition/us-core-practitioner"
+          ],
+          "tag": [
+            {
+              "system": "https://www.edifecs.com/fhir/tags",
+              "code": "dummy",
+              "display": "Dummy Resource"
+            }
+          ]
+        },
+        "identifier": [
+          {
+            "system": "https://fhir.greenwayhealth.io/global-id",
+            "value": "ffaf4df4ddbe8e25c5310b16ee972a7e78fc3b13"
+          }
+        ],
+        "name": [
+          {
+            "family": "unknown"
+          }
+        ]
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "fullUrl": "http://127.0.0.1:12443/fhir-server/R4/2-16-840-1-113883-3-140-99040513150914202103/Practitioner/167174",
+      "resource": {
+        "resourceType": "Practitioner",
+        "id": "167174",
+        "meta": {
+          "versionId": "1",
+          "lastUpdated": "2022-11-08T15:02:55.167+00:00",
+          "source": "2.16.840.1.113883.3.140.99040513150914202103",
+          "profile": [
+            "http://hl7.org/fhir/us/core/StructureDefinition/us-core-practitioner"
+          ],
+          "tag": [
+            {
+              "system": "https://www.edifecs.com/fhir/tags",
+              "code": "dummy",
+              "display": "Dummy Resource"
+            }
+          ]
+        },
+        "identifier": [
+          {
+            "system": "https://fhir.greenwayhealth.io/global-id",
+            "value": "9dc434e0b99cee61a872732cd205d660632a0206"
+          }
+        ],
+        "name": [
+          {
+            "family": "unknown"
+          }
+        ]
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "fullUrl": "http://127.0.0.1:12443/fhir-server/R4/2-16-840-1-113883-3-140-99040513150914202103/Practitioner/167185",
+      "resource": {
+        "resourceType": "Practitioner",
+        "id": "167185",
+        "meta": {
+          "versionId": "1",
+          "lastUpdated": "2022-11-08T15:02:55.691+00:00",
+          "source": "2.16.840.1.113883.3.140.99040513150914202103",
+          "profile": [
+            "http://hl7.org/fhir/us/core/StructureDefinition/us-core-practitioner"
+          ],
+          "tag": [
+            {
+              "system": "https://www.edifecs.com/fhir/tags",
+              "code": "dummy",
+              "display": "Dummy Resource"
+            }
+          ]
+        },
+        "identifier": [
+          {
+            "system": "https://fhir.greenwayhealth.io/global-id",
+            "value": "09fb8bfb156c57f8e80d2d477c1cfca3af3c91a3"
+          }
+        ],
+        "name": [
+          {
+            "family": "unknown"
+          }
+        ]
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "fullUrl": "http://127.0.0.1:12443/fhir-server/R4/2-16-840-1-113883-3-140-99040513150914202103/Practitioner/167241",
+      "resource": {
+        "resourceType": "Practitioner",
+        "id": "167241",
+        "meta": {
+          "versionId": "1",
+          "lastUpdated": "2022-11-08T15:02:57.900+00:00",
+          "source": "2.16.840.1.113883.3.140.99040513150914202103",
+          "profile": [
+            "http://hl7.org/fhir/us/core/StructureDefinition/us-core-practitioner"
+          ],
+          "tag": [
+            {
+              "system": "https://www.edifecs.com/fhir/tags",
+              "code": "dummy",
+              "display": "Dummy Resource"
+            }
+          ]
+        },
+        "identifier": [
+          {
+            "system": "https://fhir.greenwayhealth.io/global-id",
+            "value": "aaf444cc409e0db6b9654b5b97807d3aebb167b5"
+          }
+        ],
+        "name": [
+          {
+            "family": "unknown"
+          }
+        ]
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "fullUrl": "http://127.0.0.1:12443/fhir-server/R4/2-16-840-1-113883-3-140-99040513150914202103/Practitioner/234644",
+      "resource": {
+        "resourceType": "Practitioner",
+        "id": "234644",
+        "meta": {
+          "versionId": "1",
+          "lastUpdated": "2022-11-08T16:09:12.215+00:00",
+          "source": "2.16.840.1.113883.3.140.99040513150914202103",
+          "profile": [
+            "http://hl7.org/fhir/us/core/StructureDefinition/us-core-practitioner"
+          ],
+          "tag": [
+            {
+              "system": "https://www.edifecs.com/fhir/tags",
+              "code": "dummy",
+              "display": "Dummy Resource"
+            }
+          ]
+        },
+        "identifier": [
+          {
+            "system": "https://fhir.greenwayhealth.io/global-id",
+            "value": "dffc6278c79f212005939c9b7336e454fefaf668"
+          }
+        ],
+        "name": [
+          {
+            "family": "unknown"
+          }
+        ]
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "fullUrl": "http://127.0.0.1:12443/fhir-server/R4/2-16-840-1-113883-3-140-99040513150914202103/Practitioner/234672",
+      "resource": {
+        "resourceType": "Practitioner",
+        "id": "234672",
+        "meta": {
+          "versionId": "1",
+          "lastUpdated": "2022-11-08T16:09:12.658+00:00",
+          "source": "2.16.840.1.113883.3.140.99040513150914202103",
+          "profile": [
+            "http://hl7.org/fhir/us/core/StructureDefinition/us-core-practitioner"
+          ],
+          "tag": [
+            {
+              "system": "https://www.edifecs.com/fhir/tags",
+              "code": "dummy",
+              "display": "Dummy Resource"
+            }
+          ]
+        },
+        "identifier": [
+          {
+            "system": "https://fhir.greenwayhealth.io/global-id",
+            "value": "fa5aedf2b3af3fea522211867f43f29be4f3264b"
+          }
+        ],
+        "name": [
+          {
+            "family": "unknown"
+          }
+        ]
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "fullUrl": "http://127.0.0.1:12443/fhir-server/R4/2-16-840-1-113883-3-140-99040513150914202103/Practitioner/167342",
+      "resource": {
+        "resourceType": "Practitioner",
+        "id": "167342",
+        "meta": {
+          "versionId": "1",
+          "lastUpdated": "2022-11-08T15:03:02.771+00:00",
+          "source": "2.16.840.1.113883.3.140.99040513150914202103",
+          "profile": [
+            "http://hl7.org/fhir/us/core/StructureDefinition/us-core-practitioner"
+          ],
+          "tag": [
+            {
+              "system": "https://www.edifecs.com/fhir/tags",
+              "code": "dummy",
+              "display": "Dummy Resource"
+            }
+          ]
+        },
+        "identifier": [
+          {
+            "system": "https://fhir.greenwayhealth.io/global-id",
+            "value": "6da88b60156a9dc135c46b80bb7ca62c08c42d60"
+          }
+        ],
+        "name": [
+          {
+            "family": "unknown"
+          }
+        ]
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "fullUrl": "http://127.0.0.1:12443/fhir-server/R4/2-16-840-1-113883-3-140-99040513150914202103/Practitioner/136456",
+      "resource": {
+        "resourceType": "Practitioner",
+        "id": "136456",
+        "meta": {
+          "versionId": "1",
+          "lastUpdated": "2022-11-08T14:37:33.515+00:00",
+          "source": "2.16.840.1.113883.3.140.99040513150914202103",
+          "profile": [
+            "http://hl7.org/fhir/us/core/StructureDefinition/us-core-practitioner"
+          ],
+          "tag": [
+            {
+              "system": "https://www.edifecs.com/fhir/tags",
+              "code": "dummy",
+              "display": "Dummy Resource"
+            }
+          ]
+        },
+        "identifier": [
+          {
+            "system": "https://fhir.greenwayhealth.io/global-id",
+            "value": "4ca014ed9661423e2a7d3dcb53db0be2af5f347c"
+          }
+        ],
+        "name": [
+          {
+            "family": "unknown"
+          }
+        ]
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "fullUrl": "http://127.0.0.1:12443/fhir-server/R4/2-16-840-1-113883-3-140-99040513150914202103/Practitioner/136495",
+      "resource": {
+        "resourceType": "Practitioner",
+        "id": "136495",
+        "meta": {
+          "versionId": "1",
+          "lastUpdated": "2022-11-08T14:37:37.099+00:00",
+          "source": "2.16.840.1.113883.3.140.99040513150914202103",
+          "profile": [
+            "http://hl7.org/fhir/us/core/StructureDefinition/us-core-practitioner"
+          ],
+          "tag": [
+            {
+              "system": "https://www.edifecs.com/fhir/tags",
+              "code": "dummy",
+              "display": "Dummy Resource"
+            }
+          ]
+        },
+        "identifier": [
+          {
+            "system": "https://fhir.greenwayhealth.io/global-id",
+            "value": "60be99913b5623d30a9665a0665fd6b3c49519a3"
+          }
+        ],
+        "name": [
+          {
+            "family": "unknown"
+          }
+        ]
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "fullUrl": "http://127.0.0.1:12443/fhir-server/R4/2-16-840-1-113883-3-140-99040513150914202103/Practitioner/136656",
+      "resource": {
+        "resourceType": "Practitioner",
+        "id": "136656",
+        "meta": {
+          "versionId": "1",
+          "lastUpdated": "2022-11-08T14:37:42.924+00:00",
+          "source": "2.16.840.1.113883.3.140.99040513150914202103",
+          "profile": [
+            "http://hl7.org/fhir/us/core/StructureDefinition/us-core-practitioner"
+          ],
+          "tag": [
+            {
+              "system": "https://www.edifecs.com/fhir/tags",
+              "code": "dummy",
+              "display": "Dummy Resource"
+            }
+          ]
+        },
+        "identifier": [
+          {
+            "system": "https://fhir.greenwayhealth.io/global-id",
+            "value": "00d49f520c0bde377e14f4c930a294a287cd1442"
+          }
+        ],
+        "name": [
+          {
+            "family": "unknown"
+          }
+        ]
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "fullUrl": "http://127.0.0.1:12443/fhir-server/R4/2-16-840-1-113883-3-140-99040513150914202103/Practitioner/136925",
+      "resource": {
+        "resourceType": "Practitioner",
+        "id": "136925",
+        "meta": {
+          "versionId": "1",
+          "lastUpdated": "2022-11-08T14:38:06.607+00:00",
+          "source": "2.16.840.1.113883.3.140.99040513150914202103",
+          "profile": [
+            "http://hl7.org/fhir/us/core/StructureDefinition/us-core-practitioner"
+          ],
+          "tag": [
+            {
+              "system": "https://www.edifecs.com/fhir/tags",
+              "code": "dummy",
+              "display": "Dummy Resource"
+            }
+          ]
+        },
+        "identifier": [
+          {
+            "system": "https://fhir.greenwayhealth.io/global-id",
+            "value": "a6bf4acf36b75c9feebecbcad98eeb1f48ff2122"
+          }
+        ],
+        "name": [
+          {
+            "family": "unknown"
+          }
+        ]
+      },
+      "search": {
+        "mode": "match"
+      }
+    }
+  ]
+}
